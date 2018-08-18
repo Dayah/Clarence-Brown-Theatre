@@ -1,0 +1,26 @@
+Michael Dayah
+mdayah@utk.edu
+(865) 974-4987
+
+The Clarence Brown Theatre site uses a home-grown content management system developed for this project. Features include:
+
+* 
+* Extensible framework allowing
+
+<?
+foreach ($structure as $menu) {
+	if (distance($menu["ADDRESS"], $bad_uri)) { ?>
+<li><a href="<?= $dir . $menu["ADDRESS"] ?>"><?= $menu["TITLE"] ?></a></li>
+<?	}
+	if ($menu["MENU"]) foreach ($menu["MENU"] as $submenu) {
+		if (distance($submenu["ADDRESS"], $bad_uri)) { ?>
+<li><a href="<?= $dir . $menu["ADDRESS"] . "/" . $submenu["ADDRESS"] ?>"><?= $menu["TITLE"] . " - " . $submenu["TITLE"] ?></a></li>
+<?		}
+		if ($submenu["MENU"]) foreach ($submenu["MENU"] as $subsubmenu) {
+			if (distance($subsubmenu["ADDRESS"], $bad_uri)) { ?>
+<li><a href="<?= $dir . $menu["ADDRESS"] . "/" . $submenu["ADDRESS"] . "/" . $subsubmenu["ADDRESS"] ?>"><?= $menu["TITLE"] . " - " . $submenu["TITLE"] . " - " . $subsubmenu["TITLE"] ?></a></li>
+<?			}
+		}
+	}
+}
+?>

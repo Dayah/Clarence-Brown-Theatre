@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="no"?>
+<images>
+	<item name="Main" src="../../images/front/main.jpg" alt="" />
+	<item name="Now Playing" src="../../images/front/nowplaying.gif" alt="Now Playing" />
+	<item name="Theatre Department" src="../../images/front/theaterdept.gif" alt="Theatre Department" />
+	<item name="What's New" src="../../images/front/whatsnew.gif" alt="What's New in UT Theatre" />
+	<item name="Bullet" src="../../images/front/bullet.gif" alt="*" />
+	<item name="On Stage" src="../../images/front/onstage.gif" alt="On Stage Image Gallery" />
+	<item name="Current Play" src="../../images/front/play.jpg" alt="" />
+	<item name="News Bottom" src="../../images/front/newsbottom.gif" alt="" />
+	<item name="UT Logo" src="../../images/front/utlogo.gif" alt="UT" />
+	<item name="CBT Logo" src="../../images/front/cbtlogo.gif" alt="CBT" />
+
+	<item name="B-97.5" src="logos/b975.gif" alt="B-97.5" />
+	<item name="Comcast" src="logos/comcast.gif" alt="Comcast" />
+	<item name="WUOT" src="logos/wuot.gif" alt="91.9 fm WUOT" />
+	<item name="Moxley Carmichael" src="logos/moxley.gif" alt="Moxley Carmichael" />
+	<item name="WBIR" src="logos/wbir.gif" alt="WBIR-TV Knoxville" />
+	<item name="BellSouth" src="logos/bellsouth.gif" alt="BellSouth Real Yellow Pages" />
+	<item name="Barnes Noble" src="logos/barnes-noble.gif" alt="Barnes &amp; Noble" />
+
+	<item name="Sponsor B-97.5" src="tiny logos/b975.gif" alt="B-97.5" />
+	<item name="Sponsor Comcast" src="tiny logos/comcast.gif" alt="Comcast" />
+	<item name="Sponsor WUOT" src="tiny logos/wuot.gif" alt="91.9 fm WUOT" />
+	<item name="Sponsor Moxley Carmichael" src="tiny logos/moxley.gif" alt="Moxley Carmichael" />
+	<item name="Sponsor WBIR" src="tiny logos/wbir.gif" alt="WBIR-TV Knoxville" />
+	<item name="Sponsor BellSouth" src="tiny logos/bellsouth.gif" alt="BellSouth Real Yellow Pages" />
+	<item name="Sponsor Barnes Noble" src="tiny logos/barnes-noble.gif" alt="Barnes &amp; Noble" />
+	<item name="Sponsor WIVK" src="tiny logos/wivk.gif" alt="WIVK FM 107.7" />
+	<item name="Sponsor News-Sentinel" src="tiny logos/news-sentinel.gif" alt="The News-Sentinel" />
+	<item name="Sponsor Wild 98.7" src="tiny logos/wild987.gif" alt="Wild 98.7" />
+
+	<item name="Anne Thibault" src="headshots/Anne Thibault.jpg" alt="Headshot" />
+	<item name="Collin D. Martin" src="headshots/Collin D. Martin.jpg" alt="Headshot" />
+	<item name="Dan Owenby" src="headshots/Dan Owenby.jpg" alt="Headshot" />
+	<item name="David Brian Alley" src="headshots/David Brian Alley.jpg" alt="Headshot" />
+	<item name="Faezeh Jalali" src="headshots/Faezeh Jalali.jpg" alt="Headshot" />
+	<item name="Ian Dunn" src="headshots/Ian Dunn.jpg" alt="Headshot" />
+	<item name="Jeremy Fischer" src="headshots/Jeremy Fischer.jpg" alt="Headshot" />
+	<item name="Forrest D. Martin" src="headshots/Forrest D. Martin.jpg" alt="Headshot" />
+	<item name="Rebecca Eddy" src="headshots/Rebecca Eddy.jpg" alt="Headshot" />
+	<item name="Alecia White" src="headshots/Alecia White.jpg" alt="Headshot" />
+	<item name="Steven Biggs" src="headshots/Steven Biggs.jpg" alt="Headshot" />
+	<item name="Juan Salvati" src="headshots/Juan Salvati.jpg" alt="Headshot" />
+
+	<item name="Clarence Brown" src="history/clarence brown.jpg" alt="Clarence Brown" />
+	<item name="Newspaper Article" src="history/newpaper article.jpg" alt="Newspaper Article" />
+	<item name="Faculty Players" src="history/faculty players.jpg" alt="Faculty Players playbill" />
+
+	<item name="Parking Map" src="parking.jpg" alt="Parking map" />
+
+	<item name="Art" src="season/art.jpg" alt="" />
+	<item name="Oklahoma" src="season/oklahoma.jpg" alt="" />
+	<item name="Romeo" src="season/romeo and juliet.jpg" alt="" />
+	<item name="Midwives" src="season/midwives.jpg" alt="" />
+	<item name="Nora" src="season/nora.jpg" alt="" />
+	<item name="Pump Boys" src="season/pump boys.jpg" alt="" />
+	<item name="Euripides" src="season/euripides.jpg" alt="" />
+	<item name="Oliver" src="season/oliver.jpg" alt="" />
+
+	<item name="Calendar Art" src="calendar/art.gif" alt="" />
+	<item name="Calendar Romeo" src="calendar/romeo.gif" alt="" />
+	<item name="Calendar Midwives" src="calendar/midwives.gif" alt="" />
+	<item name="Calendar Nora" src="calendar/nora.gif" alt="" />
+	<item name="Calendar Pump Boys" src="calendar/pumpboys.gif" alt="" />
+	<item name="Calendar Euripides" src="calendar/bacchae.gif" alt="" />
+	<item name="Calendar Oliver" src="calendar/oliver.gif" alt="" />
+
+	<item name="Head Spacer" src="../../images/spacer.gif" alt="" />
+	<item name="Slideshow Previous" src="../../images/nav/slideshow-left.gif" alt="Previous" />
+	<item name="Slideshow Next" src="../../images/nav/slideshow-right.gif" alt="Next" />
+	<item name="Clarence Head" src="../../images/nav/clarencehead.gif" alt="Index" />
+</images>

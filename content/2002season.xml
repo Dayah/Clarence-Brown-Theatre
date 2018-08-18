@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<season>
+	<play>
+		<title>Art</title>
+		<byline>Yasmina Reza</byline>
+		<date from="30 Aug 2002" to="14 Sep 2002" />
+		<theater>Clarence Brown Theatre</theater>
+		<subtitle>3 friends and an innocent white painting</subtitle>
+		<description>This hit Broadway comedy brings color to an innocent white painting.  An award winning masterpiece, the white canvas draws three friends into a battle for friendship, freedom and art.</description>
+		<image>Art</image>
+		<sponsors>Moxley Carmichael,WBIR,Comcast,News-Sentinel,NewsTalk</sponsors>
+	</play>
+
+	<play>
+		<title>Nora</title>
+		<byline>Ingmar Bergman</byline>
+		<based>Based on the Henrik Ibsen play, A Doll's House</based>
+		<date from="11 Oct 2002" to="27 Oct 2002" />
+		<theater>Ula Love Doughty Carousel Theatre</theater>
+		<subtitle>It's never too late to choose your destiny</subtitle>
+		<description>A pampered wife and adoring mother faces a crisis as marital reality shatters her world.  Nora must choose to accept her situation or soar with the winds of change.</description>
+		<image>Nora</image>
+		<sponsors>WBIR,Comcast,News-Sentinel,WUOT</sponsors>
+	</play>
+
+	<play>
+		<title>Oliver!</title>
+		<byline>Lionel Bart</byline>
+		<date from="22 Nov 2002" to="8 Dec 2002" />
+		<subtitle>Musical fun for the whole family</subtitle>
+		<description>Oliver! is a musical version of the Charles dickens classic.  All your favorite characters come to life on the CBT stage: Oliver Twist, the Artful Dodger, Fagan, Nancy, Bill Sykes and others.</description>
+		<image>Oliver</image>
+		<sponsors>WBIR,Comcast,News-Sentinel,WUOT,B-97.5</sponsors>
+	</play>
+
+	<play>
+		<title>The Bacchae of Euripides: A Communion Rite</title>
+		<byline>Wole Soyinka</byline>
+		<date from="7 Feb 2003" to="22 Feb 2003" />
+		<subtitle>"First of all I believe implicitly that any work of art which opens out the horizons of the human mind, the human intellect is by its very nature a force for change, a medium for change." - Wole Soyinka</subtitle>
+		<description>The CBT is proud to produce this adaptation based on the classic Greek play. Playwright Wole Soyinka won the Nobel Prize for Literature and has fought for change and peace in his native Nigeria through his work as a writer, through his time as a political prisoner, and through his exile from his home country. This timely play about nations, rulers and religion is produced as part of &lt;a href="http://pr.tennessee.edu/africa/"&gt;UT's African Semester celebration&lt;/a&gt;.</description>
+		<image>Euripides</image>
+		<sponsors>WBIR,Comcast,News-Sentinel,Wild 98.7</sponsors>
+	</play>
+
+	<play>
+		<title>Midwives</title>
+		<byline>Dana Yeaton</byline>
+		<date from="28 Feb 2003" to="15 Mar 2003" />
+		<subtitle>When faced with a decision, the acceptable solution is not always the right one</subtitle>
+		<description>An inspiring midwife in a remote New England county makes a decision and finds herself the target of a criminal investigation.  She struggles to convince the jury, the medical community, her daughter and herself that her hasty decision was the right one.</description>
+		<image>Midwives</image>
+		<sponsors>WBIR,Comcast,News-Sentinel,WUOT,B-97.5</sponsors>
+	</play>
+
+	<play>
+		<title>Romeo &amp; Juliet</title>
+		<byline>William Shakespeare</byline>
+		<date from="11 Apr 2003" to="27 Apr 2003" />
+		<subtitle>True Love</subtitle>
+		<description>Shakespeare's masterpiece still endures as the greatest love story of all time.  This bittersweet tale is for audiences of all ages.</description>
+		<image>Romeo</image>
+		<sponsors>WBIR,Comcast,News-Sentinel,WUOT,B-97.5</sponsors>
+	</play>
+
+	<play>
+		<title>Pump Boys and Dinettes</title>
+		<date from="30 May 2003" to="14 Jun 2003" />
+		<subtitle>Country western musical to kick off your summer</subtitle>
+		<description>This musical tribute to life by the roadside, unfolds at a gas station and the 'Double Cupp Diner' on Highway 57.  Join us for an entertaining collection of Southern characters and county music.</description>
+		<image>Pump Boys</image>
+		<sponsors>WBIR,Comcast,News-Sentinel,WIVK</sponsors>
+	</play>
+
+</season>

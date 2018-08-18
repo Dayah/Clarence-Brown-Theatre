@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<news>
+	<item show="true">
+		<title>Season Tickets</title>
+		<text>Season tickets are now on sale! Reserve your seats for this fabulous season today. Call 974-5161 or &lt;a href=&quot;forms/seasonform.pdf&quot;&gt;download the order form&lt;/a&gt;.</text>
+	</item>
+	<item show="true">
+		<title>New! Online ticket sales</title>
+		<text>You can now &lt;a href=&quot;http://www.tickets.com/venue_info.cgi?vid=201551&quot;&gt;purchase tickets to 'Nora' online&lt;/a&gt;.  Choose your seats!</text>
+	</item>
+	<item show="true">
+		<title>Grad Student News</title>
+		<text>Workshops Galore!  We're bringing in the best and the brightest for our best and brightest.</text>
+	</item>
+</news>

@@ -1,0 +1,129 @@
+<?xml version="1.0" standalone="no"?>
+<menu>
+	<item title="Home" address="" />
+
+	<item title="Performance" address="performance" content="performance.html">
+		<menu>
+			<item title="2002-2003 Season" address="2002season" content="2002season.xml">
+				<menu>
+					<item title="Art" address="#art" />
+					<item title="Nora" address="#nora" />
+					<item title="Oliver!" address="#oliver" />
+					<item title="The Bacchae of Euripides: A Communion Rite" address="#euripides" />
+					<item title="Midwives" address="#midwives" />
+					<item title="Romeo &amp; Juliet" address="#romeo" />
+					<item title="Pump Boys and Dinettes" address="#pumpboys" />
+				</menu>
+			</item>
+			<item title="2001-2002 Season" address="2001season" content="2001season.xml">
+				<menu>
+					<item title="The Rainmaker" address="#rainmaker" />
+					<item title="The Illusion" address="#illusion" />
+					<item title="A Child's Christmas in Wales" address="#xmasinwales" />
+					<item title="The Crucible" address="#crucible" />
+					<item title="Three Sisters" address="#sisters" />
+					<item title="Oklahoma!" address="#oklahoma" />
+					<item title="All in the Timing" address="#timing" />
+				</menu>
+			</item>
+			<item title="Opening Night Club" address="openingnight" content="openingnight.html" />
+			<item title="Workshops/Special Works" address="workshops" content="workshops.html" />
+			<item title="All Campus Theatre" address="allcampus" content="allcampustheater.html" />
+			<item title="Auditions" address="auditions" content="auditions.html" />
+			<item title="Other Events" address="events" content="otherevents.html" />
+		</menu>
+	</item>
+
+	<item title="Academics" address="academics" content="academics.html">
+		<menu>
+			<item title="Theatre Design MFA" address="theatredesign" content="theaterdesign.html">
+				<menu>
+					<item title="Costume Design MFA" address="costume" content="costumedesign.html" />
+					<item title="Costume Design Details" address="costumedetails" content="costumedetails.html" hidden="true" />
+					<item title="Scene Design MFA" address="scene" content="scenedesign.html" />
+					<item title="Scene Design Details" address="scenedetails" content="scenedetails.html" hidden="true" />
+					<item title="Lighting Design MFA" address="lighting" content="lightingdesign.html" />
+					<item title="Lighting Design Details" address="lightingdetails" content="lightingdetails.html" hidden="true" />
+					<item title="How to Apply" address="apply" content="apply.html" />
+				</menu>
+			</item>
+			<item title="Performance MFA" address="performance" content="performancemfa.html">
+				<menu>
+					<item title="How to Apply" address="apply" content="apply.html" />
+				</menu>
+			</item>
+			<item title="Theatre BA major/minor" address="theatreba" content="theaterba.html" />
+			<item title="Faculty" address="faculty" content="faculty.html" />
+			<item title="Alumni" address="alumni" content="alumni.html" />
+			<item title="Guest Artists" address="guestartists" content="underconstruction.html" />
+			<item title="Current Graduate Students" address="gradstudents" content="gradstudents.html" />
+		</menu>
+	</item>
+
+	<item title="Box Office" address="boxoffice" content="boxoffice.html">
+		<menu>
+			<item title="Tickets" address="tickets">
+				<menu>
+					<item title="Season Tickets" address="season" content="seasontickets.html" />
+					<item title="Individual Tickets" address="individual" content="individual.html" />
+					<item title="Group Sales" address="group" content="group.html" />
+				</menu>
+			</item>
+			<item title="Opening Night Club" address="openingnight" content="openingnight.html" />
+			<item title="Opening Night Club Slideshow" address="oncslideshow" content="oncslideshow.xml" imagedir="onc" hidden="true" />
+			<item title="Dinner Theatre" address="dinnertheatre" content="dinnertheater.html" />
+			<item title="Directions/Parking" address="directions" content="parking.html" />
+		</menu>
+	</item>
+
+	<item title="Community/ Outreach" address="community" content="community.html">
+		<menu>
+			<item title="Outreach Slideshow" address="slideshow" content="outreach.xml" imagedir="outreach" hidden="true" />
+			<item title="Season for Youth" address="youth" content="youthseason.html" />
+			<item title="In the Classroom" address="classroom" content="classroom.html" />
+			<item title="Theatre Talk" address="talk" content="theatertalk.html" />
+			<item title="Volunteer Opportunities" address="volunteer" content="volunteer.html" />
+			<item title="Backstage Tours" address="backstage" content="backstage.html" />
+		</menu>
+	</item>
+
+	<item title="Support" address="support" content="support.html">
+		<menu>
+			<item title="Make a Donation" address="donate" content="blank.html" />
+			<item title="Opening Night Club" address="openingnight" content="openingnight.html" />
+			<item title="Sponsors" address="sponsors" content="sponsors.html" />
+			<item title="Playbill Advertising" address="playbill" content="playbill.html" />
+		</menu>
+	</item>
+
+	<item title="International Initiatives" address="international" content="international.html">
+		<menu>
+			<item title="Guest Artists" address="guestartists" content="guestartists.html" />
+			<item title="Avignon" address="avignon" content="avignon.html" />
+			<item title="Salzburg" address="salzburg" content="salzburg.html" />
+		</menu>
+	</item>
+
+	<item title="League of Resident Theatres [LORT]" address="lort" content="lort.html">
+		<menu>
+			<item title="Company Members" address="members" content="lortmembers.html" />
+		</menu>
+	</item>
+
+	<item title="About CBT" address="about">
+		<menu>
+			<item title="Facilities" address="facilities" content="facilities.html" />
+			<item title="Directions/Parking" address="directions" content="parking.html" />
+			<item title="Staff" address="staff" content="staff.html" />
+			<item title="Advisory Board" address="board" content="board.html" />
+			<item title="History" address="history" content="history.html" />
+			<item title="About Clarence Brown" address="clarencebrown" content="aboutclarence.html" hidden="true" />
+		</menu>
+	</item>
+
+	<item title="Contact Us" address="contact" content="contact.html" />
+
+	<item title="On Stage Image Gallery" address="onstage" content="onstage.xml" imagedir="slideshow" hidden="true" />
+
+	<item title="Press" address="press" dir="press" />
+</menu>

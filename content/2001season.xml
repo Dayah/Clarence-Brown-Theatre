@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<season>
+	<play>
+		<title>The Rainmaker</title>
+		<byline>N. Richard Nash</byline>
+		<date from="31 Aug 2001" to="15 Sep 2001" />
+		<subtitle>An American Romance</subtitle>
+		<description>This classic American romance tells the story of a close-knit family enduring a drought in rural Oklahoma. Into their lives comes the magical salesman, Starbuck, who promises rain and brings the woman of the house, Lizzie, out of her emotional shell. A hit Hollywood movie in the 1950's, &lt;i&gt;The Rainmaker&lt;/i&gt; comes alive in Knoxville with an impressive roster of CBT favorites.</description>
+		<image>The Rainmaker</image>
+	</play>
+
+	<play>
+		<title>The Illusion</title>
+		<byline>Tony Kushner</byline>
+		<date from="19 Oct 2001" to="3 Nov 2001" />
+		<subtitle>A Story of Love and Betrayal</subtitle>
+		<description>Freely adapted from the French comedy &lt;i&gt;L'Illusion Comique&lt;/i&gt;, The Illusion is a playful exploration of the many faces of love. With a flare for language and contemporary wit, playwright Tony Kushner has created a modern classic that brims with theatricality!</description>
+		<image>The Illusion</image>
+	</play>
+
+	<play>
+		<title>A Child's Christmas in Wales</title>
+		<byline>Jeremy Brooks and Adrian Mitchell</byline>
+		<date from="23 Nov 2001" to="9 Dec 2001" />
+		<subtitle>A Holiday Musical</subtitle>
+		<description>Based on the classic children¹s story by Dylan Thomas, this musical adaptation follows young Dylan, his friends and family through the Christmas holidays with Welsh stories, songs, and holiday cheer. A touching musical experience for the entire family.</description>
+		<image>Christmas in Wales</image>
+	</play>
+
+	<play>
+		<title>The Crucible</title>
+		<byline>Arthur Miller</byline>
+		<date from="1 Feb 2002" to="16 Feb 2002" />
+		<subtitle>An American Classic</subtitle>
+		<description>One of the masterworks of American drama, The Crucible examines the rights of the individual through the prism of the Salem witch trials in colonial America. Rediscover one of the great plays of the twentieth century.</description>
+		<image>Crucible</image>
+	</play>
+
+	<play>
+		<title>Three Sisters</title>
+		<byline>Anton Chekhov</byline>
+		<date from="1 Mar 2002" to="16 Mar 2002" />
+		<subtitle>An American Classic</subtitle>
+		<description>Chekhov¹s exploration of class and character in Czarist Russia still resonates as one of the most influential plays of world theatre. The CBT¹s innovative production will feature &lt;?= LinkTo("gradstudents.html", "our new group of young actors in training at UT") ?&gt;.</description>
+		<image>Three Sisters</image>
+	</play>
+
+	<play>
+		<title>Oklahoma!</title>
+		<byline>Rodgers &amp; Hammerstein</byline>
+		<date from="12 Apr 2002" to="27 Apr 2002" />
+		<subtitle>A Musical Treasure Celebrating the Centennial of Richard Rodgers' Birth.</subtitle>
+		<description>For the first time ever, we are pleased to bring Rodgers &amp; Hammerstein¹s classic musical to life on the CBT stage. Bring the family for all-time favorite songs such as &lt;i&gt;Oh, What a Beautiful Mornin'&lt;/i&gt;, &lt;i&gt;Oklahoma!&lt;/i&gt;, and &lt;i&gt;I Cain¹t Say No&lt;/i&gt;.</description>
+		<image>Oklahoma</image>
+	</play>
+
+	<play>
+		<title>All in the Timing</title>
+		<byline>David Ives</byline>
+		<date from="31 May 2002" to="15 Jun 2002" />
+		<subtitle>A Contemporary Comedy</subtitle>
+		<description>Wordsmith and playwright David Ives made theatrical history with this collection of short comedies that will dazzle your mind and tickle your funny bone. Can a monkey at a typewriter compose Hamlet by mistake? Is there a Universal Language? What if we could start over on a blind-date gone bad? Discover the hilarious answers with us!</description>
+		<image>Oklahoma</image>
+	</play>
+
+</season>

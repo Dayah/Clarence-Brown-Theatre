@@ -1,0 +1,89 @@
+/* Michael Dayah	*/
+/* mdayah@utk.edu	*/
+/* (865) 974-4987	*/
+
+/*** Top-level Navigation ***/
+.Navigation DIV {
+	font-size: 10px;
+	font-family: sans-serif;
+	line-height: 10px;
+	border-bottom: 1px solid rgb(153, 51, 0);
+}
+.Navigation #First {
+	border-top: 1px solid rgb(153, 51, 0);
+}
+.Navigation A {
+	color: rgb(255, 153, 0);
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.Navigation A:hover, .Navigation A.Active {
+	color: rgb(153, 51, 0);
+}
+
+/*** Level 1 Navigation ***/
+.Level1 {
+	display: none;		/* fix for Nav 4 */
+	visibility: hidden;
+	position: absolute;
+	left: 140px;
+	top: 0;
+	z-index: 1;
+}
+.Level1 TD {
+	background-color: rgb(160, 50, 0);
+}
+.Level1 DIV {
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	border-bottom: none;
+}
+.Level1 A {
+	color: rgb(255, 204, 0);
+	text-transform: none;
+}
+.Level1 A:hover, .Level1 A.Active {
+	color: rgb(255, 153, 0);
+}
+
+/*** Level 2 Navigation ***/
+.Level2 {
+	visibility: hidden;
+	position: absolute;
+	left: 145px;
+	top: 0;
+	border-right: 1px solid rgb(153, 51, 0);
+	z-index: 2;
+}
+.Level2 TD {
+	background-color: rgb(255, 102, 0);
+}
+.Level2 A {
+	color: black;
+}
+.Level2 A:hover, .Level2 A.Active {
+	color: rgb(160, 50, 0)
+}
+
+/* Hide from NS4 */
+/*/*/
+.Navigation DIV {
+	margin-top: 3px;
+	margin-bottom: 3px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+.Level1 {
+	display: block;
+}
+/* Discontinue hiding */
+
+SPAN, HR {
+	display: none;
+}
+SPAN.Active {
+	display: block;
+	position: absolute;
+	right: 5px;
+	visibility: hidden;
+}

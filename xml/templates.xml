@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="no"?>
+<templates>
+	<item name="slideshow" src="slideshow.php" />
+	<item name="season" src="season.php" />
+</templates>
